@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{BEB0D13C-2557-4864-8ECB-78B0212B1366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{FBDC45B2-4574-4300-AB68-B4B1C4B01FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerService", "LoggerService\LoggerService.csproj", "{C6781DEE-38C0-4E4B-9313-9764CD5E4BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB0D13C-2557-4864-8ECB-78B0212B1366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB0D13C-2557-4864-8ECB-78B0212B1366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB0D13C-2557-4864-8ECB-78B0212B1366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB0D13C-2557-4864-8ECB-78B0212B1366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDC45B2-4574-4300-AB68-B4B1C4B01FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDC45B2-4574-4300-AB68-B4B1C4B01FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDC45B2-4574-4300-AB68-B4B1C4B01FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDC45B2-4574-4300-AB68-B4B1C4B01FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6781DEE-38C0-4E4B-9313-9764CD5E4BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6781DEE-38C0-4E4B-9313-9764CD5E4BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6781DEE-38C0-4E4B-9313-9764CD5E4BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6781DEE-38C0-4E4B-9313-9764CD5E4BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E55D8D44-8BB6-419B-8F8D-0CE7A9809DB9}
+	EndGlobalSection
+EndGlobal
